@@ -2,9 +2,9 @@
 
 ## Student Details
 
-- Student ID: `your id`
-- Student Name: `your name`
-- Section Number: `you section number`
+- Student ID: `u1610242`
+- Student Name: `Timur Usmanov`
+- Section Number: `003`
 
 ## Tasks
 Finish following tasks in this project:
